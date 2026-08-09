@@ -1,0 +1,17 @@
+Concept of Inheritance, Method overloading and Array of objects:
+a. Create a class Room which will store the length and breadth of the room in two
+variables. Create another class, Roomdemo, which will use the earlier class, and also
+store the height of the room. Create instances of Roomdemo, set the values of length,
+breadth and height of the room. Calculate the volume of the rooms.
+b. Write a Java program to overload a function rect()
+void rect (int, char): With one integer argument and one-character argument, draw a
+filled square of side n using the character stored in ch.
+void rect(int, int, char): With two integer arguments and one character argument, draw
+a filled rectangle of length l and width b using characters stored in ch.
+c. Declare a class Student that represents the following hierarchical information: ID,
+name (First, Middle, Last), Gender, DOB (day, month, year), marks of 3 subjects
+considering a 1D array (English, Mathematics, Computer Science). To store the name
+and DOB, use the concept aggregation.
+Write a Java program to store and display the database of n students by using an
+array of objects. Also write methods to search a particular student (based on ID or
+name) from the array and display his/her details.
