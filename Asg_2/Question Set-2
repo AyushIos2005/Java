@@ -1,0 +1,13 @@
+2. Concept of Operators and Conditional Statement and Concept of Loop Structure:
+
+a. Write a Java program to identify the largest among three numbers using the
+Conditional Operator.
+
+b. In general, an equation of the form ax2 + bx + c = 0 is known as a quadratic equation.
+Accept the values of a, b, and c from the user and write a Java program to calculate
+the roots of the given quadratic equation.
+
+c. Write a Java program to check whether a year is a Leap Year or not.
+
+
+d. Write a Java program to generate the Fibonacci Series up to n terms using a loop.
